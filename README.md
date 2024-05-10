@@ -16,4 +16,4 @@ Yeh project Android Studio mein ek basic welcome screen ka implementation hai jo
 ## Installation and Running
 1. Is project ko clone ya download karein:
    ```shell
-   git clone https://github.com/username/jetpack-welcome-screen.git
+   git clone https://github.com/bukharisha/JetPack_WelcomeScreen.git
